@@ -1,2 +1,2 @@
 # Personal-Portfolio
-My Personal Portfolio by Reactt
+My Personal Portfolio by React
